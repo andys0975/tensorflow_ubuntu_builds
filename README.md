@@ -8,4 +8,4 @@ whl url = https://bit.ly/2OmXj9a
 
 ## tensorflow 1.10.0 with CUDA 9.2.148 + CUDNN 7.2.1
 include: GCP, AWS, HDFS, OPENCL, JEMALLOC, XLA, VERBS, KAFKA, S3, GDR, NCCL=1.3<br />
-whl url = http://bit.ly/2vV8NJw
+whl url = https://bit.ly/2OtiEOB
